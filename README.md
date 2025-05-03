@@ -31,11 +31,19 @@ The goal of this project is to practice and demonstrate front-end web developmen
 
 All you need is a browser and a code editor (e.g., VS Code).
 
-### Running Locally
+## Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/netflix-clone.git
-   cd netflix-clone
+![Screenshot 2025-05-03 134935](https://github.com/user-attachments/assets/fcaed58e-79e6-4900-a62f-6b40d8f9bc91)
 
-  
+![Screenshot 2025-05-03 135004](https://github.com/user-attachments/assets/711e5923-8cbb-4e52-8e0a-7a3c95386e49)
+
+![Screenshot 2025-05-03 135026](https://github.com/user-attachments/assets/3613f63d-eaf9-41b1-9e8e-d2e28bff49c5)
+
+
+
+
+
+
+
+
+
